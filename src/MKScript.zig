@@ -6,3 +6,5 @@
 
 const Digit = Range("0", "9");
 const Alpha = Option(&.{ Range('a', 'z'), Range('A', 'Z'), Any("_") });
+
+const Operator = P
